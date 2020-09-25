@@ -22,3 +22,15 @@ header {
   height: 300px;
   margin-bottom: 2rem;
 }
+
+nav {
+  display: flex;
+  font-weight: bold;
+  align-items: center;
+  margin: 3rem 0 2rem;
+}
+
+.logo {
+  font-size: 3rem;
+  margin-right: 1rem;
+}
